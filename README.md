@@ -1,2 +1,2 @@
-# kddcup99 with autoencoder
-Using autoencoder for flow based anomaly detection on kddcup99 dataset
+# Autoencoder for Network Intrusion Detection
+Using custom Autoencoder for flow-based anomaly detection on the kddcup99 dataset
